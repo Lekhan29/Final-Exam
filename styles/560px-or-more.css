@@ -1,0 +1,21 @@
+@media screen and (max-width: 560px) {
+  /* NAVIGATION */
+  nav>ul {
+    padding: 5px;
+  }
+  #figure-one, #figure-two{
+      width: 100%;
+  }
+
+  /* HEADER */
+  h1 {
+    font-size: 48px;
+  }
+  body>header>h2 {
+    font-size: 0px;
+  }
+  button {
+    font-size: 18px;
+    margin-left: 40%;
+  }
+}
